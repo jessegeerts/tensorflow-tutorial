@@ -1,0 +1,4 @@
+__pycache*
+events*
+.idea/*
+.ipynb_checkpoint*
